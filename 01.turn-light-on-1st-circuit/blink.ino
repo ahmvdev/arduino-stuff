@@ -35,6 +35,6 @@ void loop() {
   delay(1000);
   digitalWrite(8, HIGH);  // on
   delay(1000);          
-  digitalWrite(8, LOW);  // on
+  digitalWrite(8, LOW);  // off
   delay(1000);            // wait for a second
 }
